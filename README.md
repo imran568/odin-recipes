@@ -1,1 +1,1 @@
-# odin-recipes
+# This website will show cook recipes and all of basic knowledge on making website
